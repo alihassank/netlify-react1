@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className = "App">
-   <h1>hello world react App</h1>
+   <h1> react App means i can post anything</h1>
    </div>
   );
 }
